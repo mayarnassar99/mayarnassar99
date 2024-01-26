@@ -3,11 +3,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Data Scientist
 --------------
-theme: jeykll-theme-minimal
+
 I've been learning to code for 2 years, after switching careers.
 
 * 🌍  I'm based in EGYPT
-* 🖥️  See my portfolio at [my portfolio](http://www.linkedin.com/in/mayar-nassar-9346a3185/)
+* 🖥️  See my portfolio at [my portfolio](http://github.com/mayarnassar99?tab=repositories)
 * ✉️  You can contact me at [mayar.nassar89@gmil.com](mailto:mayar.nassar89@gmil.com)
 
 <a href="https://www.github.com/mayarnassar99" target="_blank" rel="noreferrer"><img
